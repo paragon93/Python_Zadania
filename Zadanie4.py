@@ -1,0 +1,6 @@
+a=int(input (" Podaj a:\n"))
+b=int(input (" Podaj b:\n"))
+c=int(input (" Podaj c:\n"))
+delta= (b*b)-(4*a*c)
+print("Delta wynosi:", delta)
+print(" y=",a ,"x^2 +", b,"x +", c)
