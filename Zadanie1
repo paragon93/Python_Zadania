@@ -1,0 +1,5 @@
+wiek=int(input ("Podaj swój wiek:\n"))
+if (wiek>=18):
+    print("Jesteś pełnoletni od: ", wiek-18, " lat ")
+else:
+    print("Jesteś niepełnoletni. Do pełnoletności brakuje Ci: ", 18-wiek, " lat ")
